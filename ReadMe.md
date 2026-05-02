@@ -1,6 +1,6 @@
 # 🛒 E-Commerce SQL Database  
 
-<p align="right"><b>Project Duration:</b> August 2025 (1 Month)</p>
+<p align="right"><b>Project Duration:</b> August 2025 </p>
 
 ## **Project Overview**  
 This project represents a comprehensive **backend database solution** for managing an e-commerce platform using SQL. It focuses on designing and executing efficient queries to handle **customers, products, orders, and payments**.  
