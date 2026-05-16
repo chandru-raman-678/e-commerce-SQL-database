@@ -1,5 +1,7 @@
 # 🛒 E-Commerce SQL Database  
 
+# Project Duration: 1 week
+
 Old GitHub Link: https://github.com/chandru-raman56/E-Commerce-SQL-DataBase
 
 ## **Project Overview**  
